@@ -1,6 +1,5 @@
 %% Image Processing Homework 2:
-% Etai Wigman - 315875385      Itzik Nsimov - 206697849
-disp("Etai Wigman 315875385     Itzik Nsimov 206697849")
+
 %% 1) RGB and Grayscale
 clear variables
 close all
